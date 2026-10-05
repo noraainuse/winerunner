@@ -1,0 +1,8 @@
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/winerunner.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/install-user.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/edit_cache.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/rebuild_cache.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/list_install_components.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/install.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/install/local.dir
+/home/lynn/codex/persona/winerunner/build/CMakeFiles/install/strip.dir

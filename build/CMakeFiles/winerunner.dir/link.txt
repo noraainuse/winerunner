@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/winerunner.dir/link.d CMakeFiles/winerunner.dir/src/main.c.o CMakeFiles/winerunner.dir/src/config.c.o CMakeFiles/winerunner.dir/src/runner.c.o CMakeFiles/winerunner.dir/src/utils.c.o -o winerunner
