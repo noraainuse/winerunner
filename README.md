@@ -166,27 +166,3 @@ winerunner config
 ```
 
 ---
-
-## 💡 Alternative Project Names Comparison
-
-If you'd like a different name or shorter CLI alias, here is a comparison:
-
-| Name | Length | Vibe | Pros & Cons |
-| :--- | :--- | :--- | :--- |
-| **`winerunner`** | 10 chars | Direct & Clear | **Selected by default.** Familiar from Lutris runners. Slightly long, but tab completion makes it quick. |
-| **`wineplay`** | 8 chars | Action-oriented | Built-in symlink installed by default (`wineplay nfsmw`). Friendly and memorable. |
-| **`keg`** | 3 chars | Unix-style | Super short (like `git`, `zsh`, `tar`). Fits the Wine / fermentation theme. |
-| **`cork`** | 4 chars | Clever Wine metaphor | 4 letters, very fast to type: `cork add`, `cork nfsmw`. |
-| **`cellar`** | 6 chars | Storage metaphor | Represents your game collection / cellar. |
-| **`vintner`** | 7 chars | Wine curator | Distinctive, but a less common word. |
-| **`winelaunch`** | 10 chars | Classic | Standard launcher name. |
-
-To use any alias, simply add to `~/.zshrc`:
-```bash
-alias keg="winerunner"
-alias cork="winerunner"
-```
-Or symlink it in `~/.local/bin/`:
-```bash
-ln -s ~/.local/bin/winerunner ~/.local/bin/keg
-```
